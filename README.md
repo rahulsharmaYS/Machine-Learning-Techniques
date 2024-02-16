@@ -20,4 +20,4 @@ This repository will be constantly updated as new techniques are explored and im
 Feedback and suggestions are always welcome. Feel free to [open an issue](https://github.com/rahulsharmaYS/Machine-Learning-Techniques/issues) to suggest improvements or provide feedback.
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This repository is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
