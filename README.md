@@ -11,7 +11,7 @@ The primary aim of this repository is to explore and implement Machine Learning 
 2. **Rest weeks will be updated later**
 
 ## Contributor
-This repository is maintained by [Rahul Sharma](@rahulsharmaYS).
+This repository is maintained by [Rahul Sharma](https://github.com/rahulsharmaYS).
 
 ## Updates
 This repository will be constantly updated as new techniques are explored and implemented.
