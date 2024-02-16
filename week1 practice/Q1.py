@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 #Using example datapoints to practice representation learning ~
-height = [150, 160, 170, 180, 190]
+height = [150, 160, 170, 180, 190, 160]
 weight = [50, 60, 70, 80, 90]
 age = [25, 30, 35, 40, 45]
 
