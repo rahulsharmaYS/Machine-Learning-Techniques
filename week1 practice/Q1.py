@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
-#Using example datapoints to practice representation learning ~
+#Using example data-points to practice representation learning ~
 height = [150, 160, 170, 180, 190, 160, 160]
-weight = [50, 60, 70, 80, 90]
+weight = [50, 60, 70, 80, 90, 45]
 age = [25, 30, 35, 40, 45]
 
 plt.scatter(height, weight, c=age, cmap='cool', s=100)
